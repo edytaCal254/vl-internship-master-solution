@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="internship-project-base.main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.virtuslab.internship.trash.MineTestingClass" />
+    <module name="internship-project-base.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
